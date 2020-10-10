@@ -1,0 +1,33 @@
+Ascending List
+Adiel
+Chris
+Erik
+Giang
+Jason
+Jayde
+Juan
+Michelle
+Omar
+Sam
+Sergio
+Travis
+Yesenia
+
+Descending List
+Yesenia
+Travis
+Sergio
+Sam
+Omar
+Michelle
+Juan
+Jayde
+Jason
+Giang
+Erik
+Chris
+Adiel
+
+First alphabetized element is Adiel
+
+Last alphabetized element is Yesenia
